@@ -29,7 +29,7 @@ anomaly-detection-system
 ## Installation
 
 1. Clone the repository
-git clone https://github.com/your-username/anomaly-detection-system.git
+git clone https://github.com/Aanchal-tech123/anomaly-detection-system.git
 
 2. Install required libraries
 pip install -r requirements.txt
