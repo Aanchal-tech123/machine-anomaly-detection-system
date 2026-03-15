@@ -1,9 +1,7 @@
-# machine-anomaly-detection-system
-AI-based machine anomaly detection system using Random Forest and Isolation Forest.
 # Anomaly Detection System
 
 ## Overview
-This project detects anomalies in data using a Machine Learning model based on the Random Forest algorithm.
+AI-based machine anomaly detection system using Random Forest, XG Boost, Linear regression and Isolation Forest.
 
 ## Technologies Used
 - Python
@@ -15,7 +13,7 @@ This project detects anomalies in data using a Machine Learning model based on t
 
 ## Features
 - Data preprocessing
-- Random Forest model training
+- traning models
 - Anomaly prediction
 - Confusion matrix visualization
 
